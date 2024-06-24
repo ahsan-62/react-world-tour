@@ -4,3 +4,13 @@
   grid-gap: 20px;
   margin-top: 20px;
 }
+
+.visited-flag {
+  width: 100px;
+  height: 50px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 1px solid gray;
+  padding: 5px;
+}
